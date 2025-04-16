@@ -4,3 +4,6 @@ it wasnt much help.
 thank you so uch love you 
 ----
 updated 2
+Fetch will downloads all the changes from the remote repo to our local 
+It retrieves the metadata associated with the remote repository, allowing 
+you to view changes made by others without automatically merging them into your working branch
