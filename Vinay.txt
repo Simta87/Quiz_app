@@ -1,7 +1,7 @@
 Hello Vinay, 
-Thank you so much for solving this token issue ,  i have been working on this since morning but 
+Thank you so much for solving this token issue, I have been working on this since morning but 
 it wasnt much help.
-thank you so uch love you 
+Thank you for solving token.
 ----
 updated 2
 Fetch will downloads all the changes from the remote repo to our local 
